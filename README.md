@@ -1,3 +1,3 @@
 browserify
 ==========
-This uses three modules that calculate different mathematical formulas.
+This uses three modules that calculate different mathematical formulas
